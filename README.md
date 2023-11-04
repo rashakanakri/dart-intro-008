@@ -4,7 +4,7 @@
 |  number |  title | link  |  
 |---|---|---|
 | 1 |  installation |[click here](./classes/class1.md)   |
-| 2  |   |   | 
+| 2  | introduction to dart  |[click here](./classes/class1.md)  | 
 | 3  |   |   |  
 | 4  |   |   |   
 | 5  |   |   |   
