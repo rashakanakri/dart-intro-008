@@ -40,7 +40,7 @@ e:1,
 
  );
 
-// method at return string
+// method (return string)
 
 
 // void fullname (){
@@ -57,7 +57,7 @@ name("rasha","kanakri");
 
 
 
-// methods at int string
+// methods(int string)
 void fruits (int strawberry ,int apples,int banana){
 
   int pricefruits=strawberry+apples+banana;
