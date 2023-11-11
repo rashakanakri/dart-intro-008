@@ -1,6 +1,6 @@
 
 
-
+import 'dart:io';
 
 void main() {
 //  we will use the comment to explain in the program 
@@ -68,5 +68,53 @@ int? num2;
 //  num2=5;
 print(num2);
 print('num2=$num2');
+
+
+// loops : for , wlile 
+// var input from the user and save the value in var
+print('Enter your name');
+var input1 = stdin.readLineSync();
+print('input1 = $input1');
+
+
+ print('__'*50);
+  print('welcome to our login app');
+
+while(true){
+  print('-'*50);
+  print('1-login');
+  print('2-register');
+  print('3-exit');
+  var name;
+  var age;
+  var pass;
+  
+  map1={
+
+    'name':name;
+    'age':age;
+    'pass':pass;
+  }
+ 
+  var i = stdin.readLineSync();
+  if( i=='1'){
+    print('iam login');
+    
+    break;
+  }
+   else  if(i=='2') {
+    print('iam req');
+    break;}
+
+     else if(i=='3') {
+      print('good day');
+      break;
+
+
+
+    }
 }
+}
+
+
 
