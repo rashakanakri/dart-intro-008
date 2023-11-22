@@ -13,8 +13,8 @@
 | 8  |   |   | 
 | 9  |   |   | 
 | 10 |   |   | 
-| 11 |opp part 1|   [click here](./classes/opp1.md) | 
-| 12 |   |   | 
+| 11 |oop part 1|   [click here](./classes/oop1.md) | 
+| 12 | oop part 2 |  [click here](./classes/oop2.md) | 
 | 13 |   |   | 
 | 14 |   |   | 
 | 15 |   |   | 
