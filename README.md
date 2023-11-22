@@ -15,7 +15,7 @@
 | 10 |   |   | 
 | 11 |oop part 1|   [click here](./classes/oop1.md) | 
 | 12 | oop part 2 |  [click here](./classes/oop2.md) | 
-| 13 |   |   | 
+| 13 | oop part 3  |  [click here](./classes/oop3.md) | 
 | 14 |   |   | 
 | 15 |   |   | 
 | 16 |   |   | 
