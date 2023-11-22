@@ -37,3 +37,5 @@ class Mobile {
      Mobile.RR (screen){}
 
 }
+
+contructor2.dart

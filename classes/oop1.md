@@ -22,4 +22,8 @@ class Nameclass (){
         print();
         
     }
+
 }
+
+
+class_and_object1.dart

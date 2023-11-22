@@ -10,3 +10,5 @@ key:return value
 blue rectangle:attribute
 
 this : بعمل ربط بين القيم يلي عرفتها وبين الابجكت يلي منعمله انشاء من الكلاس
+
+cons-amd-attribute3.dart
