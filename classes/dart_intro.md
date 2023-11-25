@@ -1,7 +1,9 @@
 [back](../README.md)
 introduction to dart
 data type (number, string,boolean ,list, maps)
+
  list namelist=['','',''];اكتر من قيمه داخل متغير واحد
+ 
  map mapname={'key'='value',....};
  _____________________________
  $:لطباعه متغير داخل سترنغ

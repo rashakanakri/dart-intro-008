@@ -1,7 +1,10 @@
 [back](../README.md)
 type test operation(is and is not)
+
  print('is');
+
 print(5.3 is int);
+
 print(5.3 is! int); 
 
 
