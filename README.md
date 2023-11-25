@@ -8,7 +8,7 @@
 | 3  | methods in dart  |  [click here](./classes/dart_methods.md) |  
 | 4  | dart operation  |  [click here](./classes/dartoperation.md) |   
 | 5  | dart project part  |   [click here](./classes/dartproject.md) |   
-| 6  |   |   | 
+| 6  | if stament in dart  | [click here](./classes/ifstatment.md)  | 
 | 7  |   |   | 
 | 8  |   |   | 
 | 9  |   |   | 
