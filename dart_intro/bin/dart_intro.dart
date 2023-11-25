@@ -6,7 +6,7 @@ void main() {
 //  we will use the comment to explain in the program 
 //  and the comment will not be executed
 // to add hint to the code we use the comment
-// syntax tof dart is similar to java and c++
+// syntax of dart is similar to java and c++
 // variablrs declaration
 // logical operation
 // if else statment

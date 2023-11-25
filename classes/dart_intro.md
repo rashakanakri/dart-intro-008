@@ -1,19 +1,25 @@
 [back](../README.md)
 introduction to dart
 data type (number, string,boolean ,list, maps)
+ list namelist=['','',''];اكتر من قيمه داخل متغير واحد
+ map mapname={'key'='value',....};
+ _____________________________
+ $:لطباعه متغير داخل سترنغ
 
-type test operation(is ans is not)
+Lib(library):يحتوي على كل المكتبات يلي بضيفها على الابلكيشن تبعي
 
-bitwise operatin(&(F),|(R),^,~)
+Test: بفيدني بس بدي اعمل رن للابلكيشن ، قبل ما اجربه بعمل تيست بحيث اشوف اذا اللوجك صح او لا
 
-variables type in dart
+.gitignor: تابع للقيتاب فداخل القيتاب بحكيله عندي ملفات ما بدي اضيفها على المشروع (تجاهل الملفات)
 
-1.var (the value changes but the type dosn't change)
+Pubspec.lock:بحكيلي كل تول او مل مكتبه ايش الاصدار تبعها
 
-2.dynamic (the valu and type change)
+Pubspec.yaml: هو يلي بشيك على الدارت اول شي بشوف كل المكتبات يلي ضايفيتهم وبعمللهم تثبيت داخل ملف لوك
 
-3.final (the valu and type not change)
+Bin: هو الملف الرئيسي يلي كل الشغل عليه
 
-4.const(the valu and type not change)
+_______________________________________________
+
+
 
 

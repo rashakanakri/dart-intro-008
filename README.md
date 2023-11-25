@@ -6,8 +6,8 @@
 | 1 |  installation |[click here](./classes/class1.md)   |
 | 2  | introduction to dart  |[click here](./classes/dart_intro.md)  | 
 | 3  | methods in dart  |  [click here](./classes/dart_methods.md) |  
-| 4  |   |   |   
-| 5  |   |   |   
+| 4  | dart operation  |  [click here](./classes/dartoperation.md) |   
+| 5  | dart project part  |   [click here](./classes/dartproject.md) |   
 | 6  |   |   | 
 | 7  |   |   | 
 | 8  |   |   | 
