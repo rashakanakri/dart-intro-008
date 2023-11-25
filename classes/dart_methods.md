@@ -2,7 +2,9 @@
  void :return any data type
 
 [void methodsname (params){
-    code
+
+    //code
+
 }]
 
 after defining the methods we must make a methods call

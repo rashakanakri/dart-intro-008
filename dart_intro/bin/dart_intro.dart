@@ -70,7 +70,7 @@ void main() {
 // print('num2=$num2');
 
 
-// loops : for , wlile 
+// loops : for , wlile ,do while
 // var input from the user and save the value in var
 // print('Enter your name');
 // var input1 = stdin.readLineSync();

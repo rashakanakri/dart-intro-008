@@ -1,4 +1,4 @@
-void main (){
+   void main (){
 
 
 // params and return 
@@ -16,7 +16,7 @@ print('mousa');
 print('kanakri');
 
 }
- printName();
+printName();
 
 //  method to calculate the sum of 2 numbers
 
